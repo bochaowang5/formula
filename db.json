@@ -27,6 +27,18 @@
     {
       "pid": 1,
       "expression": "quantity * price"
+    },
+    {
+      "pid": 1,
+      "expression": "quantity + price"
+    },
+    {
+      "pid": 1,
+      "expression": "quantity - price"
+    },
+    {
+      "pid": 2,
+      "expression": "quantity * price"
     }
   ]
 }
