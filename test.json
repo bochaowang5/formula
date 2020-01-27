@@ -1,0 +1,24 @@
+{
+  "number": [
+    {
+      "id": 1,
+      "title": "quantity"
+    },
+    {
+      "id": 2,
+      "title": "price"
+    }
+  ],
+  "text": [
+    {
+      "id": 1,
+      "name": "hello"
+    }
+  ],
+ "formula": [
+    {
+      "id": 1,
+      "expression": "quantity * price"
+    }
+  ]
+}
