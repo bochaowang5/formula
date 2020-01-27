@@ -1,23 +1,31 @@
 {
   "number": [
     {
-      "id": 1,
+      "pid": 1,
       "title": "quantity"
     },
     {
-      "id": 2,
+      "pid": 1,
       "title": "price"
     }
   ],
   "text": [
     {
-      "id": 1,
+      "pid": 1,
+      "name": "hello"
+    },
+    {
+      "pid": 1,
+      "name": "hello"
+    },
+    {
+      "pid": 2,
       "name": "hello"
     }
   ],
  "formula": [
     {
-      "id": 1,
+      "pid": 1,
       "expression": "quantity * price"
     }
   ]
